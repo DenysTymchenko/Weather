@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="editTextCity_hint">Enter city</string>
+    <string name="button_text">Get weather</string>
+    <string name="textViewTemperature_text">Temperature: %.2f</string>
+    <string name="toast_text">City not found</string>
+</resources>
